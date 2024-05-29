@@ -14,15 +14,20 @@ body {font-family: "Lato", sans-serif}
     text-align: left;
 }
 
-img {
+#bact, #antibio {
     width:250px;
     height:300px;
 }
+
+#graph1 {
+    width:750px;
+    height:400px;
+}
+
 </style>
 </head>
 <body>
 
-<!-- Navbar -->
 <div class="w3-top">
   <div class="w3-bar w3-black w3-card">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
@@ -62,7 +67,7 @@ img {
         Ainsi est mis en lumière une baisse effective de l'efficacité des antibiotiques entre les années 80 et maintenant.
     </p>
     <figure>
-        <img src="./images_bactéries.jpg"> <img src="./images_antibiotiques.jpg">
+        <img id="bact" src="./images_bactéries.jpg"> <img id="antibio" src="./images_antibiotiques.jpg">
         <figcaption>Photographies des souches de bactéries et des antibiotiques utilisés afin de réaliser l'expérience. </figcaption>
     </figure>
     
@@ -98,7 +103,8 @@ img {
     <p>Notons tout de même que certaines solutions existent, et qu'il convient de mettre en place ces solutions aux échelles nationale, européenne et mondiale.</p>
     <h2>4. Mesures à mettre en place face à ce problème : </h2>
 
-    <p>
+    <img id="graph1" src="prescriptions.png">
+      <p>
         Tout d'abord, nous devons restreindre notre utilisation des antibiotiques au strict minimum, afin de retarder l'évolution du phénomène de biorésistance.
         Ensuite, il s'agit d'encourager la recherche dans le domaine. Certaines pistes sont à explorer, telles que :
     </p>
@@ -124,7 +130,7 @@ img {
         <li><a href="https://anses.fr/fr">Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail</a></li>
         <li><a href="https://resapath.anses.fr/">Réseau de surveillance de l'antibiorésistance des bactéries pathogènes animales</a></li>
         <li><a href="https://resapath.anses.fr/resapath_uploadfiles/files/Documents/Rapport%20annuel/2022_Resapath_Rapport%20annuel_FR.pdf">resapath : Bilan surveillance 2022</a></li>
+        <li><a href="https://resapath.anses.fr/resapath_uploadfiles/files/Documents/Publications/2023_SpF_Une%20d%C3%A9marche%20une%20seule%20sant%C3%A9_Plaquette.pdf">Prévention résistance antibiotiques</a></li>
     </ul>
-
 </body>
 </html>
