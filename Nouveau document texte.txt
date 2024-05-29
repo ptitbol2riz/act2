@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>activité 2</title>
+    <style>
+        * {
+            background-color:194, 247, 166;
+            margin:30px;
+        }
+        
+        h1,h2,h3 {
+            text-align:center;
+            color:white;
+            background-color:grey;
+        }
+
+        h2, h3 {
+           color:black
+        }
+
+        img {
+            width:400px;
+            height:500px;
+        }
+
+        p,li {
+            font-size: large;
+        }
+
+        li {
+            color:blue;
+        }
+
+        
+    </style>
+</head>
+<body>
+    <h1>Activité 2 : Mécanismes évolutifs et résistance aux antibiotiques :</h1>
+    
+    <h3>Auteurs : Axel Vrana, chercheur en épidémiologie au sein de l'institut "Imaginary Doesn't Exists" (IDE) et Pierre Riblet Cahurel, rédacteur en chef du quotidien de vulgarisation scientifique "Source Tkt Frère"</h2>
+    <h4>Ayant conscience du problème de santé publique que pose actuellement le déclin de l'efficacité des antibiotiques, et dans l'optique d'aider les instances scientifiques et politiques à lutter contre ce problème, nous publions ce billet.</h4>
+    <h4>De fait, cet article est structuré de la façon suivante : </h4>
+    
+    <ul>
+        <li>1. Expérience sur la baisse d'efficacité des antibiotiques entres les années 1980 et aujourd'hui</li>
+        <li>2. Causes de la baisse d'efficacité des antibiotiques</li>
+        <li>3. Conséquences de la baisse d'efficacité des antibiotiques</li>
+        <li>4. Mesures à mettre en place face à ce problème</li>
+    </ul>
+    
+    <br>
+    
+    <h2>1. Expérience sur la baisse d'efficacité des antibiotiques entres les années 1980 et aujourd'hui : </h2>
+    <p>Tout d'abord il nous faut mettre en évidence le dit problème. Ainsi, nous avons utilisé deux souches de bactéries, une contenant des bactéries datant des années 1980 (en bleu), et une autre des bactéries récentes (rose). Ainsi, nous avons pour chaque souche versé des antibiotiques, respectivement ABC et 123, qui sont en réalité les mêmes antibiotiques. 
+        Remarquons que, concernant la souche de bactéries des années 1980, les antibiotiques ont été efficaces. En effet, nous pouvons observer 3 zones distinctes dépourvues de bactéries. En revanche pour les bactéries récentes, nous observons que les antibiotiques se sont montré inefficaces.
+        Ainsi est mis en lumière une baisse effective de l'efficacité des antibiotiques entre les années 80 et maintenant.
+    </p>
+    <figure>
+        <img src="./images_bactéries.jpg"> <img src="./images_antibiotiques.jpg">
+        <figcaption>Photographies des souches de bactéries et des antibiotiques utilisés afin de réaliser l'expérience. </figcaption>
+    </figure>
+    
+    <h2>2. Causes de la baisse d'efficacité des antibiotiques : </h2>
+    <p>Pour comprendre les causes de ce problème, il convient tout d'abord d'avoir à l'esprit le fonctionnement d'un antibiotique. 
+        En effet, il s'agit de molécules synthétisées grâce à des microorganismes, qui les produisent naturellement afin de lutter contre des bactéries concurrentes.
+     </p>
+    
+    <p>Ainsi il existe aujourd'hui plusieurs familles d'antibiotiques : </p>
+    <ul>
+        <li>naturels</li>
+        <li>semi-synthétiques</li>
+        <li>de synthèse</li>
+    </ul>
+
+    <p>
+        Malheureusement, certaines bactéries ont une forte capacité d'adaptation, du fait de leur reproduction rapide, causant ainsi l'apparition de nouvelles caractéristiques. 
+        De plus, la sélection naturelle va favoriser la survie (et donc la prolifération) des bactéries résistantes aux antibiotiques. 
+        Dans certains cas (heureusement très rares pour le moment), les bactéries deviennent résistantes à tout antibiotique.
+    </p>
+    
+    <br>
+    <h2>3. Conséquences de la baisse d'efficacité des antibiotiques : </h2>
+    <p>
+        Après avoir eu un aperçu du fonctionnement des antibiotiques et des raisons de leur baisse d'efficacité, nous allons voir quelles en sont les conséquences.
+    </p>
+    <p>
+        Tout d'abord, notons que la baisse d'efficacité des antiobiotiques est d'autant plus importante dans les pays à forte consommation d'antibiotiques.
+        Il est important de préciser que une infection par une bactérie peut avoir des conséquences dramatiques. Prenons l'exemple en 2000 d'un patient admis à l'hopitâl pour cause d'infection par le S.aureus (staphylocoque doré).
+        Ainsi les médecins lui administrent un traitement antibiotique. Il décedera 4 mois plus tard, décès probablement lié à une résistance de la bactérie aux antibiotiques administrés. 
+        Par ailleurs, un rapport publié par l'OMS en 2016 prévoit qu'en 2050, la résistance aux antimicrobiens causera au moins 10 millions de décès par an dans le monde.
+    </p>
+    <p>Notons tout de même que certaines solutions existent, et qu'il convient de mettre en place ces solutions aux échelles nationale, européenne et mondiale.</p>
+    <h2>4. Mesures à mettre en place face à ce problème : </h2>
+
+    <p>
+        Tout d'abord, nous devons restreindre notre utilisation des antibiotiques au strict minimum, afin de retarder l'évolution du phénomène de biorésistance.
+        Ensuite, il s'agit d'encourager la recherche dans le domaine. Certaines pistes sont à explorer, telles que :
+    </p>
+    <ul>
+        <li>Créer de nouveaux antibiotiques : cette solution est valable dans l'immédiat, mais n'est malheureusement pas viable sur le long terme puisque tôt ou tard se développera une antibiorésistance contre les nouvelles molécules</li>
+        <br>
+        <li>
+            Utiliser d'autres voies thérapeutiques : la phagothérapie, consistant à administrer des virus qui vont tuer les bactéries,
+            ou des antitoxines rendant inoffensives les bactéries en bloquant les systèmes qui les rendent pathogènes pour l'homme.
+        </li>
+    </ul>
+    <br>
+    <h2>Conclusion : </h2>
+    <p>
+        Alors que l'antiobiorésistance progresse de plus en plus d'années en années et menace la santé de tous les êtres humains, il est impératif que les autorités politiques et sanitaires nationales, européennes et mondiales mettent en place dès que possible des mesures fortes, telles que celles citées plus haut, afin de renverser la situation. 
+        Il en va de notre sécurité à tous.
+    </p>
+    <p>Ainsi, nous invitons quiconque a lu cet article à se renseigner sur la question via les ressources en bas de page.</p>
+    <br>
+    <h3>Ressources en lien avec le sujet :</h3>
+    <ul>
+        <li><a href="https://www.inserm.fr/">Institut national de la santé et de la recherche médicale</a></li>
+        <li><a href="https://anses.fr/fr">Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail</a></li>
+        <li><a href="https://resapath.anses.fr/">Réseau de surveillance de l'antibiorésistance des bactéries pathogènes animales</a></li>
+        <li><a href="https://resapath.anses.fr/resapath_uploadfiles/files/Documents/Rapport%20annuel/2022_Resapath_Rapport%20annuel_FR.pdf">resapath : Bilan surveillance 2022</a></li>
+    </ul>
+</body>
+</html>
